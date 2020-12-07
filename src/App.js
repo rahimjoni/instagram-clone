@@ -10,6 +10,9 @@ function App() {
             <img src="Instagram-Logo.png" alt="logo" className="app__headerLogo"/>
         </div>
         <Post/>
+        <Post/>
+        <Post/>
+        <Post/>
     </div>
   );
 }
