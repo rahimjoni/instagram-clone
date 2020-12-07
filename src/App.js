@@ -9,10 +9,9 @@ function App() {
         <div className="app__header">
             <img src="Instagram-Logo.png" alt="logo" className="app__headerLogo"/>
         </div>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
+        <Post username="Rahim Joni" caption="Caption from here" imageUrl="original.jpeg"/>
+        <Post username="Fahimul Imam" caption="Caption from Fahim" imageUrl="Marathi-sad-image-download.jpg"/>
+        <Post username="Rahim Joni" caption="Caption from here" imageUrl="google-search-feature-image.jpg"/>
     </div>
   );
 }
